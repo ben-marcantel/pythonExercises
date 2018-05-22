@@ -7,6 +7,6 @@ elif first_name == "ben":
 else:
     age = int(input("How old are you?"))
     if age<= 6 :
-        print("wowo you're{} ".format(age))
+        print("wowo you're only {}, are you sure you can read... well, ".format(age))
     print("You should learn python")
 print("Have a great day {}:".format(first_name))
